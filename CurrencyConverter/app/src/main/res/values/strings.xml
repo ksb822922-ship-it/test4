@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="history">История</string>
+    <string name="settings">Настройки</string>
+    <string name="back">Назад</string>
+    <string name="from">Из</string>
+    <string name="to">В</string>
+    <string name="amount">Сумма</string>
+    <string name="enter_amount">Введите сумму</string>
+    <string name="swap">Поменять валюты</string>
+    <string name="refresh">Обновить курс</string>
+    <string name="offline_banner">Офлайн · обновлено %1$s</string>
+    <string name="no_rates">Курсы недоступны</string>
+    <string name="search">Поиск по коду или названию</string>
+    <string name="no_history">Нет истории</string>
+    <string name="today">Сегодня</string>
+    <string name="theme">Тема</string>
+    <string name="theme_system">Системная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="default_pair">Валюты по умолчанию</string>
+    <string name="offline_mode">Офлайн-режим (только кэш)</string>
+    <string name="history_item">%1$s %2$s → %3$s %4$s</string>
+</resources>
